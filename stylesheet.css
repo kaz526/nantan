@@ -86,15 +86,15 @@ height: 100vh;/*スライダー全体の縦幅を画面の高さいっぱい（1
 }
 /*　背景画像設定　*/
 .slider-item01 {
-    background:url("http://img3.imepic.jp/image/20220312/380790.jpg?802369840390dfa7c7311bec1cdf563b");
+    background:url("https://file10-d.kuku.lu/thumbs/20220510-1828_67bf2b148a243d7c69a5b4c7237c7f9a.jpg");
 }
 
 .slider-item02 {
-    background:url("http://img3.imepic.jp/image/20220312/381570.jpg?dbd7a7515e2d5f20428fa04851e985b3");
+    background:url("https://file8-d.kuku.lu/files/20220510-1831_e35e8e0cc08011c8a8714b10c44af9fd.jpg");
 }
 
 .slider-item03 {
-    background:url("http://img3.imepic.jp/image/20220312/381780.jpg?3966d361ae4a1046f4f6e9d16e91ee56");
+    background:url("https://file20-d.kuku.lu/files/20220510-1831_c15c6482d36935aac3227adb0998927f.jpg");
 }
 
 .slider-item {
