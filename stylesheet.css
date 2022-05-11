@@ -23,7 +23,6 @@
 
 .gnavi li{
     font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
-	src: url(" https://kaz526.github.io/nantan/");
     margin-left: 16px;
 }
 
@@ -86,15 +85,15 @@ height: 100vh;/*スライダー全体の縦幅を画面の高さいっぱい（1
 }
 /*　背景画像設定　*/
 .slider-item01 {
-    background:url("https://file10-d.kuku.lu/thumbs/20220510-1828_67bf2b148a243d7c69a5b4c7237c7f9a.jpg");
+    background-image:url("http://img2.imepic.jp/image/20220511/739650.jpg?0f9b31617626a861dcfa64885df96f59");
 }
 
 .slider-item02 {
-    background:url("https://file8-d.kuku.lu/files/20220510-1831_e35e8e0cc08011c8a8714b10c44af9fd.jpg");
+    background:url("http://img2.imepic.jp/image/20220511/742990.jpg?50166823d0732decc6caa71011286c70");
 }
 
 .slider-item03 {
-    background:url("https://file20-d.kuku.lu/files/20220510-1831_c15c6482d36935aac3227adb0998927f.jpg");
+    background:url("http://img2.imepic.jp/image/20220511/743530.jpg?caf995934c0035c870fc1673aa14d25b");
 }
 
 .slider-item {
@@ -191,11 +190,13 @@ color: #fff;
 
 /*------キャッチコピー部分CSS--------------*/
 .disp-img{
-    background-image:url("http://img3.imepic.jp/image/20220328/149680.jpg?7f978ee501afd08e2c479a00a405640b");             /* 画像のURLを指定       */
-    background-repeat:  no-repeat;                /* 画像の繰り返しを指定  */              
+   text-align: center;
+    appearance:  no-repeat;                /* 画像の繰り返しを指定  */              
     width:auto;                                   /* 横幅のサイズを指定    */
-    height:235pX;                                 /* 縦幅のサイズを指定    */
-    background-position: center;                  /*背景画像の位置を中央に*/
+    height: 235pX;                                 /* 縦幅のサイズを指定    */
+    
+    
+    
 }
 
   
@@ -206,7 +207,7 @@ color: #fff;
   }
   .flex .image {
     width: 640px; /*画像サイズ指定*/
-    margin: 100px 10px 100px 100px ;
+    margin: 70px 10px 100px 100px ;
     padding: 0;
     position: relative;
   }
@@ -215,7 +216,7 @@ color: #fff;
     height: auto;
   }
   .flex .right {
-    margin: 100px 30px 100px 100px;
+    margin: 70px 30px 100px 100px;
     padding: 0;
   }
 
@@ -260,7 +261,7 @@ color: #fff;
   
   position: absolute;
   top: 5%;
-  right: 20%;
+  right: 25%;
 }
 
 
