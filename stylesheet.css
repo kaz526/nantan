@@ -22,7 +22,10 @@
 }
 
 .gnavi li{
+@font-face {
     font-family: "Yu ]gothic Medium","游ゴシック Medium",YuGothic,"游ゴシック体","ヒラギノ角ゴ Pro W3",sans-serif;
+src: url("https://kaz526.github.io/2021-dopf/fonts/josefin-sans-v17-latin-300.woff");
+}
     margin-left: 16px;
 }
 
